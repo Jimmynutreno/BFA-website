@@ -1,0 +1,36 @@
+body {
+    background-color:purple;
+}
+.popman {
+    background-color: royalblue;
+    width: 90%;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+p {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.poop {
+    margin-left: 50px;
+}
+.poop2 {
+    margin-right: 2px;
+    margin-left: 700px;
+}
+.center {
+    margin: 10px auto 20px;
+    display: block;
+}
+.game {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
